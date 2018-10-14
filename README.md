@@ -1,5 +1,5 @@
 # underscore_cpp
-Inspired by [underscore.js](https://underscorejs.org) <br>
+Inspired by <a href="https://underscorejs.org" target="_blank">underscore.js</a> <br>
 ## Table of contents:
 * [Implementations](./README.md#implementation-of)
 * [How to run the file](./README.md#setup)
